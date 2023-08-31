@@ -13,6 +13,11 @@ section {
   background-color: #1c1d25;
 }
 
+footer {
+  background-color: #1c1d25;
+  
+}
+
 nav {
   background-color: #1c1d25;
   color: white;
@@ -24,7 +29,7 @@ nav {
 
 .hero {
   background-color: #1c1d25;
-  height: 50vh;
+  padding-top: 30vh;
   color: white;
 }
 
@@ -130,8 +135,8 @@ footer {
 }
 
 .headshot {
-    width: 300px;
-    border-radius: 150px;
+    width: 400px;
+    border-radius: 200px;
     margin: 20px;
 }
 
